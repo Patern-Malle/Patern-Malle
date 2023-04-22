@@ -39,7 +39,7 @@
 <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="Triple Index" width="32%"></a>
 <a href="https://omnivisto.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="Omnivisto" width="32%"></a>
 <a href="http://valentis22-com.stackstaging.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="Valentis Advisory" width="32%"></a>
-<a href="https://ambienceresponse.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="Ambience Response" width="32%"></a>
+<a href="https://ambienceresponse.com/"><img src="https://github.com/Patern-Malle/Patern-Malle/blob/main/ambience-response.jpg" alt="Ambience Response" width="32%"></a>
 </div>
 
 ##
